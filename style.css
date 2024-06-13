@@ -40,6 +40,10 @@ body {
     text-decoration: none;
 }
 
+a {
+    text-decoration: none; 
+}
+
 .nav li:hover {
     background-color: #5030dc;
     color: #fff;
@@ -55,6 +59,10 @@ body {
 
 h1, h2, h3, p {
     font-family: 'Syne', sans-serif;
+}
+
+.home-project h3 {
+    margin-bottom: 0;
 }
 
 p {
