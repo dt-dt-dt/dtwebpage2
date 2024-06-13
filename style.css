@@ -16,7 +16,7 @@ body {
 .left #header-logo {
     width: 300px;
     background-color: #5030dc;
-    padding: 16px;
+    padding: 18px;
     margin-bottom: -5px;
 }
 
@@ -66,4 +66,26 @@ p {
 .home-banner img {
     max-width: 100%;
     height: auto;
+}
+
+/* main */
+
+.main {
+    margin: 0px 20px 0px 20px;
+}    
+
+ul {
+    font-family: 'Syne', sans-serif;
+    font-size: 18px;
+}    
+
+/* columns */
+
+.row {
+    display: flex;
+    gap: 24px;
+}
+
+.column {
+    width: 50%;
 }
