@@ -85,8 +85,9 @@ p {
 /* main */
 
 .main {
-    margin: 0px 300px 0px 300px;
-}    
+    margin: 0 auto;
+    width: 1000px;
+}   
 
 ul {
     font-family: 'Syne', sans-serif;
